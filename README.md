@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK,NEXT JS**
 
-- 🤝 I’m looking to help with [pathfinding visualizer](https://naveen171.github.io/PathFinding_Visualizer/)
+- 🤝 I’m ready to help with [pathfinding visualizer](https://naveen171.github.io/PathFinding_Visualizer/)
 
 - 👨‍💻 All of my projects are available at [https://naveenportfolio-lovat.vercel.app/](https://naveenportfolio-lovat.vercel.app/)
 
