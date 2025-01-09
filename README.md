@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S.NAVEEN KUMAR</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently building **JOB Board**  
+- 🌱 I’m currently building **Job Board**  
 
 - 🤝 I’m ready to help with [pathfinding visualizer](https://naveen171.github.io/PathFinding_Visualizer/)
 
