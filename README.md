@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to help with [pathfinding visualizer](https://naveen171.github.io/PathFinding_Visualizer/)
 
-- 👨‍💻 All of my projects are available at [https://naveenportfolio-lovat.vercel.app/](https://naveenportfolio-lovat.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://naveen-portfolio-jade.vercel.app/](https://naveen-portfolio-jade.vercel.app/)
 
 - 💬 Ask me about **REACT,JS,CSS,NODE JS,Next JS**
 
